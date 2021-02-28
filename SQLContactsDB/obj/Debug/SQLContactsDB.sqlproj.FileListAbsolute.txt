@@ -1,0 +1,6 @@
+C:\Users\Juman\source\repos\RelationalDBSolution\SQLContactsDB\bin\Debug\SQLContactsDB.dacpac
+C:\Users\Juman\source\repos\RelationalDBSolution\SQLContactsDB\bin\Debug\SQLContactsDB.dll
+C:\Users\Juman\source\repos\RelationalDBSolution\SQLContactsDB\bin\Debug\SQLContactsDB.pdb
+C:\Users\Juman\source\repos\RelationalDBSolution\SQLContactsDB\obj\Debug\SQLContactsDB.dll
+C:\Users\Juman\source\repos\RelationalDBSolution\SQLContactsDB\obj\Debug\SQLContactsDB.pdb
+C:\Users\Juman\source\repos\RelationalDBSolution\SQLContactsDB\obj\Debug\SQLContactsDB.sqlprojAssemblyReference.cache
